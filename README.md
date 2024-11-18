@@ -5,14 +5,16 @@ This Python script generates a CSV file containing a predefined set of questions
 
 ## Features
 
-- Creates a CSV file with 50 rows of questions and answers.
+- Creates a CSV file with  rows of questions and answers.
 - The data is focused on the Cold War, proxy wars, and significant historical events.
+- the data can be inserted of your own choice too
+  
 
 ## File Output
 
 The script generates a CSV file named `Cold_War_ProxyWars_QA.csv`. This file contains:
 - A header row with two columns: "Question" and "Answer".
-- 50 rows of data with Cold War-related questions and answers.
+- make sure to provide the file path for the CSV file
 
 ## Prerequisites
 
